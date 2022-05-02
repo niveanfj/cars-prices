@@ -1,0 +1,8 @@
+symboling,normalized-losses,make,fuel-type,aspiration,num-of-doors,body-style,drive-wheels,engine-location,wheel-base,length,width,height,curb-weight,engine-type,num-of-cylinders,engine-size,fuel-system,bore,stroke,compression-ratio,horsepower,peak-rpm,city-mpg,highway-mpg
+0,,isuzu,gas,std,four,sedan,rwd,front,94.3,170.7,61.8,51.5,2337,ohc,four,111,2bbl,3.31,3.23,8.5,78,4800,24,17
+2,,isuzu,gas,std,two,hatchback,rwd,front,96.0,172.6,65.2,52.4,2734,ohc,four,119,spfi,3.43,3.23,9.2,90,5000,24,19
+0,145,jaguar,gas,std,four,sedan,rwd,front,113.0,199.6,69.6,53.8,4066,dohc,six,258,mpfi,3.63,4.17,8.1,176,4750,15,29
+0,,jaguar,gas,std,four,sedan,rwd,front,113.0,199.6,69.6,51.8,4066,dohc,six,258,mpfi,3.63,4.17,8.1,176,4750,15,17
+0,,jaguar,gas,std,two,sedan,rwd,front,102.0,191.7,70.6,48.8,3950,ohcv,twelve,326,mpfi,3.54,2.76,11.5,262,5000,13,19
+1,104,mazda,gas,std,two,hatchback,fwd,front,93.1,159.1,64.2,53.1,1890,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,30,38
+1,104,mazda,gas,std,two,hatchback,fwd,front,93.1,159.1,64.2,52.1,1900,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,31,31
