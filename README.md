@@ -3,3 +3,5 @@ Nesse repositorio, você encontrará os processos utilizados para a criação e 
 
 
 Ferramentas Utilizadas: Python, MlFlow, Sklearn, XGBoost e Jupyter Notebook.
+
+Conjunto de dados utilizados: https://www.kaggle.com/datasets/adeelsherazi/car-price-analysis
