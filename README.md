@@ -2,4 +2,4 @@
 Nesse repositorio, você encontrará os processos utlizados para a criação e inferência de um modelo que determine os preços de automóveis.
 
 
-Ferramentas Utilizadas: Python, MLFLOW, Sklearn, XGBoost e Jupyter Notebook.
+Ferramentas Utilizadas: Python, MlFlow, Sklearn, XGBoost e Jupyter Notebook.
